@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiefer Weis</h1>
+<h1 align="center">Hi 👋, I'm Kiefer Weis!</h1>
 <h3 align="center">A fast-learning & dedicated full-stack web developer from Pennsylvania</h3>
 
 - 🔭 I’m currently doing **software development at 100Devs**
@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **any project having to do with astronomy or mental health**
 
-- 👨‍💻 Some of my projects are available at [https://kiefer-dev.github.io/portfolio/](https://kiefer-dev.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available at [my portfolio](https://kiefer-dev.github.io/portfolio/)
 
-- 📫 How to reach me **kieferweis@protonmail.com**
+- 📫 Reach me at **kieferweis@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-JbZjuezHWTfuwHxJU40hMBiS2HxRJFj/view?usp=sharing](https://drive.google.com/file/d/1-JbZjuezHWTfuwHxJU40hMBiS2HxRJFj/view?usp=sharing)
+- 📄 Know about my experiences [by checking out my resume](https://drive.google.com/file/d/1-JbZjuezHWTfuwHxJU40hMBiS2HxRJFj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
