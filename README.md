@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing **software development at 100Devs**
 
-- 🌱 I’m currently learning **C#, .NET, JavaScript, React.js, amateur astronomy!**
+- 🌱 I’m currently learning **C#, .NET, JavaScript, React.js, amateur astronomy, Blender!**
 
 - 👯 I’m looking to collaborate on **any project having to do with astronomy or mental health**
 
