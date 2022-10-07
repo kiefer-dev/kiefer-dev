@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **kieferweis@protonmail.com**
 
-- 📄 Know about my experiences [by checking out my resume](https://drive.google.com/file/d/1-JbZjuezHWTfuwHxJU40hMBiS2HxRJFj/view?usp=sharing)
+- 📄 Know about my experiences [by checking out my resume](https://drive.google.com/file/d/1hURPM3RbvWJ8t8Dq0btiS2T_T5kmkdsG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
